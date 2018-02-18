@@ -44,16 +44,17 @@ If you do not like something, you can again press the edit (existing) file butto
 
 ## And much, much more
 - Full history
- - Easily revert
- - Easily see what happened when by who
- - Quickly find the discussion that shaped the decision
- - Try it yourself: Track back the above example in the history!
+  - Easily revert
+  - Easily see what happened when by who
+  - Quickly find the discussion that shaped the decision
+  - Try it yourself: Track back the above example in the history!
 - Collaborate!
- - This (very) quick showcase only included my own account, but everyone can contribute.
- - Easily merge most of the work that happened at the same time
+  - This (very) quick showcase only included my own account, but everyone can contribute.
+  - Easily merge most of the work that happened at the same time
 - Add your own tools
- - GitHub is powerful, GIT is more powerful
- - Work on your own computer in your own editor
- - Integrate with whichever service you want
- - Automated website building with its content from a GIT repository? Sure!
+  - GitHub is powerful, GIT is more powerful
+  - Work on your own computer in your own editor
+  - Integrate with whichever service you want
+  - Get notifications when new stuff happens
+  - Automated website building with its content from a GIT repository? Sure!
 - And more....
